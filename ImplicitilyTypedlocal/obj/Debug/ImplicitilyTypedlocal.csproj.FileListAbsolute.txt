@@ -1,0 +1,6 @@
+C:\Users\pc\RiderProjects\lap1.1\ImplicitilyTypedlocal\bin\Debug\ImplicitilyTypedlocal.exe
+C:\Users\pc\RiderProjects\lap1.1\ImplicitilyTypedlocal\bin\Debug\ImplicitilyTypedlocal.pdb
+C:\Users\pc\RiderProjects\lap1.1\ImplicitilyTypedlocal\obj\Debug\ImplicitilyTypedlocal.csprojAssemblyReference.cache
+C:\Users\pc\RiderProjects\lap1.1\ImplicitilyTypedlocal\obj\Debug\ImplicitilyTypedlocal.csproj.CoreCompileInputs.cache
+C:\Users\pc\RiderProjects\lap1.1\ImplicitilyTypedlocal\obj\Debug\ImplicitilyTypedlocal.exe
+C:\Users\pc\RiderProjects\lap1.1\ImplicitilyTypedlocal\obj\Debug\ImplicitilyTypedlocal.pdb
